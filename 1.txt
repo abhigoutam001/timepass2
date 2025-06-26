@@ -1,0 +1,3 @@
+cow drinks milk
+cow 2 leg
+cow eat grass
