@@ -1,3 +1,7 @@
 cow drinks milk
+<<<<<<< HEAD
 cow 2 leg , main wala change
+=======
+cow has 4 legs , what was there before 
+>>>>>>> otherone
 cow eat grass
